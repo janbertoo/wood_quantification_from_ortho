@@ -1,0 +1,9 @@
+rasterio==1.3.8
+numpy==1.26.4
+opencv-python==4.7.0.72
+GDAL==3.4.1
+ultralytics==8.2.87
+shapely==2.0.1
+scipy==1.10.1
+pandas==2.0.1
+matplotlib==3.7.1
